@@ -63,6 +63,8 @@ hilariously basic means (we would not make this assertion had we not reverse-eng
 security products that shall remain nameless. **We also might not have reverse engineered anything because that could
 be illegal**).
 
+## Our Approach
+
 With a firm-grip on the pulse of cyber security software trends, we at Mezzanotte Labs plan to disrupt the industry in a
 way that benefits consumers by offering an OS, cloud/non-cloud agnostic product suite that that can easily be integrated
 with any existing tooling in any type of environment.  Our suite consists of tools catered to both red and blue teams,
