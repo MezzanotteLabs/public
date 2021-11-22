@@ -16,7 +16,7 @@ in cost (sometimes more for larger companies).  A trend worth noting is that thi
 is coming from a smaller and smaller pool of companies, as larger players consume their competitors and thus absorb
 their products; This presents some problems:
 
-1. Vendor lock-in
+1. **Vendor lock-in**
     a. Consolidation of services is good, but not when it comes with a price tag that says "we know you need us".
     b. Tool overlap, and lack of integration abilities
         1a. Example: Lots of "next-gen" AV products are focusing on behavioral/heuristic detection capabilities
@@ -39,11 +39,11 @@ their products; This presents some problems:
             to create.
         1c: Example: CASB overlap with modern firewalls
 
-2. Dilution of quality and expertise
+2. **Dilution of quality and expertise**
     a. As companies expand their horizons, they knowingly stray slightly farther from their own "bread and butter".
        This has worked well in some cases, not-so-well in others (not to mention names, but Mand***t is guilty of this)
 
-3. Loss of functionality
+3. **Loss of functionality**
     a. A trend observed while evaluating products has been that vendors want to sell you subscription-based services.
        This in itself is not problematic, however it is problematic and unethical when they coerce customers into
        using subscription based services (SaaS vs. on-prem) by offering either no non-hosted alernatives, or offering
