@@ -65,7 +65,7 @@ be illegal**).
 
 ## Our Approach
 
-With a firm-grip on the pulse of cyber security software trends, we seek plan to disrupt the industry in a way that
+With a firm-grip on the pulse of cyber security software trends, we are seek to disrupt the industry in a way that
 benefits consumers by offering an OS, cloud/non-cloud agnostic product suite that that can easily be integrated
 with any existing tooling in any type of environment.  Our suite consists of tools catered to both red and blue teams,
 with the tools themselves ranging everywhere from the more mundane yet necessary security tools that every team needs,
