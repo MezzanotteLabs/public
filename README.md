@@ -17,6 +17,7 @@ is coming from a smaller and smaller pool of companies, as larger players consum
 their products; This presents some problems:
 
 1. **Vendor lock-in**
+```
     a. Consolidation of services is good, but not when it comes with a price tag that says "we know you need us".
     b. Tool overlap, and lack of integration abilities
         1a. Example: Lots of "next-gen" AV products are focusing on behavioral/heuristic detection capabilities
@@ -38,12 +39,14 @@ their products; This presents some problems:
             "its us or them" approach detracts from the "single pane of glass" ideal that security departments strive
             to create.
         1c: Example: CASB overlap with modern firewalls
-
+```
 2. **Dilution of quality and expertise**
+```
     a. As companies expand their horizons, they knowingly stray slightly farther from their own "bread and butter".
        This has worked well in some cases, not-so-well in others (not to mention names, but Mand***t is guilty of this)
-
+```
 3. **Loss of functionality**
+```
     a. A trend observed while evaluating products has been that vendors want to sell you subscription-based services.
        This in itself is not problematic, however it is problematic and unethical when they coerce customers into
        using subscription based services (SaaS vs. on-prem) by offering either no non-hosted alernatives, or offering
@@ -51,7 +54,7 @@ their products; This presents some problems:
     b. As mentioned above, from our anecdotal experience evaluating products it seems that vendors might purposely be
        dumbing down their abilities to integrate with other tools if the tool in question is a competitor to anything
        within their own product suite; I can't blame them for this, but it doesn't make the customer's life any easier.
-
+```
 In addition to the problems presented by an ever-shrinking pool of ever-larger software giants, one thing definitely
 worth noting is *how simple* some of these products are once you strip away the fancy UI. The truth is most things
 really are *that* simple, but often times this fact is lost deep beneath the flashy UI's, and marketed as "secret sauce"
