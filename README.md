@@ -65,12 +65,14 @@ be illegal**).
 
 ## Our Approach
 
-With a firm-grip on the pulse of cyber security software trends, we at Mezzanotte Labs plan to disrupt the industry in a
-way that benefits consumers by offering an OS, cloud/non-cloud agnostic product suite that that can easily be integrated
+With a firm-grip on the pulse of cyber security software trends, we seek plan to disrupt the industry in a way that
+benefits consumers by offering an OS, cloud/non-cloud agnostic product suite that that can easily be integrated
 with any existing tooling in any type of environment.  Our suite consists of tools catered to both red and blue teams,
 with the tools themselves ranging everywhere from the more mundane yet necessary security tools that every team needs,
 to the bleeding edge specialized exciting niche products that will tackle unqiue problems in new ways.
 
-The ideas for each product within our product suite are derived directly from real-world use-cases, and in many cases
+The ideas for each product within our product suite are derived entirely from real-world use-cases, and in many cases
 the products are (greatly enhanced) variants of solutions that we have personally architected, developed, and
 implemeneted in the past at various organizations.
+
+
