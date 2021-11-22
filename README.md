@@ -70,7 +70,7 @@ benefits consumers by offering a competitively priced OS and cloud/non-cloud agn
 with any existing tooling in any type of environment (meaning that customers may use one of our products to suit their specific needs without
 incurring large overlaps among their existing products).  Our suite consists of tools catered to both red and blue teams,
 with the tools themselves ranging everywhere from the more mundane yet necessary security tools that every team needs,
-to the bleeding edge specialized exciting niche products that will tackle unqiue problems in new ways.
+to the bleeding edge exciting niche products that will tackle unqiue problems in new ways.
 
 The ideas for each product within our product suite are derived entirely from real-world use-cases, and in many cases
 the products are (greatly enhanced) variants of solutions that we have personally architected, developed, and
