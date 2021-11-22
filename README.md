@@ -57,7 +57,7 @@ their products; This presents some problems:
 ```
 In addition to the problems presented by an ever-shrinking pool of ever-larger software giants, one thing definitely
 worth noting is *how simple* some of these products are once you strip away the fancy UI. The truth is most things
-really are *that* simple, but often times this fact is lost deep beneath the flashy UI's, and marketed as "secret sauce"
+really are *that* simple, but often times this fact is lost deep beneath the flashy UI's, and gets marketed as "secret sauce"
 to less-savvy consumers.  We can accurately state that a lot of security products accomplish their bidding by
 hilariously basic means (we would not make this assertion had we not reverse-engineered a number of "cutting-edge"
 security products that shall remain nameless. **We also might not have reverse engineered anything because that could
