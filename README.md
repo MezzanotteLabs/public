@@ -2,7 +2,7 @@
 
 ## Who we are
 We are actively-employed security professionals, who are security hobbyists in our spare time.
-We have an average of 10 years of past industry experience and achievements including but not limited to:
+We have an average of 10 years of past direct experience and achievements including but not limited to:
    - Senior incident response and analytical roles in multiple Fortune 100 SOCs
    - Senior/Principal level security engineering roles in Software and Financial sectors
    - Senior/Principal level developer roles in Software startup companies
