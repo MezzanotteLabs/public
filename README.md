@@ -7,7 +7,7 @@ We have an average of 10 years of past direct experience and achievements includ
    - Senior/Principal level security engineering roles in Software and Financial sectors
    - Senior/Principal level developer roles in Software startup companies
    - Security-related industry certifications such as GPEN, OSCP, OSCE, CEH, CCNA, Security+, Linux+
-   - Making antivirus sales reps eat their own words :)
+   - Making antivirus sales reps eat their words :)
 
 ## Abstract
 In our professional careers we have rigorously evaluated dozens of name brand security products. These products
