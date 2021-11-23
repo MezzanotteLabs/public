@@ -24,13 +24,13 @@ their products; This presents some problems:
             (as they should).  However, in order to detect such activity, they need to collect more granular datasets
             from the endpoint. This in essence has resulted in massive overlap between AV and EDR solutions, and
             has given companies the option to A. pay for both EDR and AV to collect the same exact data, or B. remove
-            their old EDR solutions (which historically have better support more SIEM integrations, more open source
+            their old EDR solutions (which historically support more SIEM integrations, more open source
             options, and far less-buggy/impacting deployments), and succumb to the vendor lock-in.
         1b. Example: Lack of integration ability is another vendor lock-in coercion tactic (whether they knowingly
             do this or not, it is). We have been on sales calls with three of the top four players in the next-gen
-            AV space and asked how we can send the data that they collect to our own SIEM, their reply was unanimously
-            something akin to "We currently don't support that option, but that would be a lot of data anywas, you don't
-            want to collect all that ... we do however offer our own SIEM product that you might be interested in,
+            AV space and asked how we can send the data that they collect to our own SIEM, their replies unanimously
+            were something like "We currently don't support that, but that would be a lot of data anyways, you don't
+            want to collect all that ... by the way we do offer our own SIEM product that you might be interested in,
             let me send you a quote for that".  This new norm of vendors collecting your data and holding it hostage
             within their own cloud (while often times charging a premium to accesss it by throttling/limiting API
             requests) is nothing short of extortion. While this may be ok with some organizations, this presents serious
